@@ -47,7 +47,6 @@ export default {
 
 <style scoped>
 .container {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
